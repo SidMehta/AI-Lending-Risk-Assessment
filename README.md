@@ -1,3 +1,6 @@
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/e5ce5998-a351-42c5-84bc-6d23f0757c2c" />
+
+
 # Loan Default Risk Assessment Application
 
 This is a web application deployed on Google App Engine that provides real-time loan default risk assessment using a machine learning model deployed on Vertex AI. The application takes loan details as input and returns the probability of default along with risk assessment metrics.
@@ -119,10 +122,6 @@ Monitor the application using Google Cloud Console:
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Acknowledgments
 
