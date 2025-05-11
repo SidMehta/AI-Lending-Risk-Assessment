@@ -1,7 +1,12 @@
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/e5ce5998-a351-42c5-84bc-6d23f0757c2c" />
 
 
-# Loan Default Risk Assessment Application
+
+ ## 🧠 AI Lending Risk Assessment
+A step-by-step machine learning project to assess loan default risk using borrower data
+
+📘 **Read full project write-up:** [Building an AI Lending Model – Step-by-Step Guide](https://www.linkedin.com/pulse/building-basic-ai-lending-modeltool-step-by-step-guide-mehta-groyc/)
+
 
 This is a web application deployed on Google App Engine that provides real-time loan default risk assessment using a machine learning model deployed on Vertex AI. The application takes loan details as input and returns the probability of default along with risk assessment metrics.
 
@@ -108,23 +113,4 @@ Monitor the application using Google Cloud Console:
 - Cloud Logging for detailed logs
 - Vertex AI dashboard for model metrics
 
-## Security
 
-- HTTPS enforced for all endpoints
-- Input validation to prevent injection attacks
-- Service account authentication for Vertex AI
-- Proper error handling to prevent information leakage
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
-## Acknowledgments
-
-- Based on the Vertex AI platform
-- Uses Flask framework for web application
-- Deployed on Google App Engine
